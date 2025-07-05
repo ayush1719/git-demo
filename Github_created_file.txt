@@ -1,1 +1,2 @@
-Waise toh it's not a good practise to create a file in github, it's better to do locally and push but push pull seekhne ke liye krna pad raha hai. It's 5:21AM and I should be asleep by now.
+Waise toh it's not a good practise to create a file in github, it's better to do locally and push but push pull seekhne ke liye krna pad raha hai.
+It's 5:21AM and I should be asleep by now.
