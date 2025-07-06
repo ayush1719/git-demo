@@ -1,0 +1,3 @@
+Yeh file merge krne ke liye pehle push hogi.
+fir mix branch master me merge hogi from github pull request.
+fir local me master branch ko pull kiya jaega. 
